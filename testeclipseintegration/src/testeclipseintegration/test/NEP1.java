@@ -5,5 +5,6 @@ public class NEP1 {
 		System.out.println("Github");
 		classA classA= new classA("ABCDEF");
 		System.out.println(classA.getAbc());
+		System.out.println("Hi jade, is me zaitul");
 	}
 }
